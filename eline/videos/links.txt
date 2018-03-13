@@ -1,0 +1,27 @@
+Generative
+(Exploring generative motion graphics with real time editing GUI)
+https://framer.cloud/VDFaB/
+
+
+Gradient Chart
+(Testing gradient color fill to a line graph)
+https://framer.cloud/DWmfG
+
+Forecast Chart:
+(Custom line chart with mixed style, using scroll for fast navigation for past and future data)
+https://framer.cloud/SARkG
+
+Carb Dial:
+(Experimenting cirular interaction as user input)
+https://framer.cloud/XQBmo/
+
+IOB Forecast:
+(Using water analogy for displaying the concept of IOB over time)
+https://framer.cloud/Jvlea/
+
+Insulin Comparison:
+(Using motion to help patient better understand the differeces among varies insulins )
+https://framer.cloud/WNVSx/
+
+Master Flow:
+https://framer.cloud/THltO/
